@@ -28,4 +28,4 @@
 
 Check the repositories section to see my efforts! Hope, you will enjoy it!
 
-⭐️ From [AmitHasanShuvo](https://github.com/PrinsYin)
+⭐️ From [PrinsYin](https://github.com/PrinsYin)

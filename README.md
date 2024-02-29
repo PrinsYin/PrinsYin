@@ -7,7 +7,7 @@
 <a href="https://github.com/PrinsYin">
   <img align="left" alt="Shuvo's Github" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UCES_2FWYQbgyikzxCQ_oOVQ?view_as=subscriber">
+<a href="https://www.youtube.com/channel">
   <img align="left" alt="Shuvo's YouTube" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
 </a>
 

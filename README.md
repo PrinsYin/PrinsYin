@@ -20,7 +20,7 @@
 <br />
 
 
-## This is Zhuoran Yin
+# This is Zhuoran Yin
 A final year student at Tongji University. degree in Computer Science & Technology. 
 
 **To know more:**  [Website](https://github.io/), [LinkedIn](https://www.linkedin.com/), [Email](yzr1914001753@gmail.com)

@@ -1,6 +1,5 @@
-## 
 
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=AmitHasanShuvo&show_icons=true"/>](https://github.com/AmitHasanShuvo/)
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=PrinsYin&show_icons=true"/>](https://github.com/AmitHasanShuvo/)
 
 <a href="https://www.linkedin.com">
   <img align="left" alt="Shuvo's Linkdein" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />

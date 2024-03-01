@@ -1,30 +1,17 @@
 
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=PrinsYin&show_icons=true"/>](https://github.com/PrinsYin/)
-
 <a href="https://www.linkedin.com">
-  <img align="left" alt="Shuvo's Linkdein" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/PrinsYin">
-  <img align="left" alt="Shuvo's Github" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.youtube.com/channel">
-  <img align="left" alt="Shuvo's YouTube" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
+  <img align="left" alt="Linkdein" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://www.k">
-  <img align="left" alt="Shuvo's Kaggle" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
-</a>
-<a href="https://www.">
-  <img align="left" alt="Shuvo's Kaggle" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/researchgate.svg" />
-</a>
-<br />
 
 
-# This is Zhuoran Yin
-A final year student at Tongji University. degree in Computer Science & Technology. 
+# This is PrinsYi
+A final year CS student at Tongji University。 
 
-**To know more:**  [Website](https://github.io/), [LinkedIn](https://www.linkedin.com/), [Email](yzr1914001753@gmail.com)
 
-Check the repositories section to see my efforts! Hope, you will enjoy it!
+<div align="left">
+<img alt="Anurag&#39;s GitHub stats" src="https://github-readme-stats.vercel.app/api?username=lc044&amp&hide=contribs,prs;show_icons=true" height="157px" weight="200px"/>
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lc044&amp;layout=compact" height="157px"/>
+</div>
 
-⭐️ From [PrinsYin](https://github.com/PrinsYin)
+、

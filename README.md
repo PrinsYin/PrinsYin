@@ -11,7 +11,7 @@ A final year CS student at Tongji University。
 
 <div align="left">
 <img alt="Anurag&#39;s GitHub stats" src="https://github-readme-stats.vercel.app/api?username=PrinsYin&amp&hide=contribs,prs;show_icons=true" height="157px" weight="200px"/>
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinsYi&amp;layout=compact" height="157px"/>
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinsYin&amp;layout=compact" height="157px"/>
 </div>
 
 、

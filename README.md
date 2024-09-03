@@ -5,8 +5,8 @@
 
 
 
-# This is PrinsYin
-A final year CS student at Tongji University。 
+# This is Ryan Yin
+Graduate CS student at CMU University.
 
 
 <div align="left">

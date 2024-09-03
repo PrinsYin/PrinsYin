@@ -6,7 +6,7 @@
 
 
 # This is Ryan Yin
-Graduate CS student at CMU University.
+Graduate CS student at Carnegie Mellon University.
 
 
 <div align="left">

@@ -5,7 +5,7 @@
 
 
 
-# This is Ryan Yin
+# This is Ryan Y
 Graduate student at Carnegie Mellon University.
 
 

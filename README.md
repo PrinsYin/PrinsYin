@@ -5,7 +5,7 @@
 
 
 
-# This is Ryan Y
+# This is Ryan
 Graduate student at Carnegie Mellon University.
 
 

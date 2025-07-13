@@ -1,11 +1,11 @@
 
-<a href="https://www.linkedin.com">
+<a href="[https://www.linkedin.com](https://www.linkedin.com/in/zhuorany/)">
   <img align="left" alt="Linkdein" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 
 
-# This is Ryan
+# This is Zhuoran
 Graduate student at Carnegie Mellon University.
 
 

@@ -5,7 +5,6 @@
 
 
 
-# This is Zhuoran
 Graduate student at Carnegie Mellon University.
 
 

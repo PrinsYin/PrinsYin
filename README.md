@@ -4,7 +4,6 @@
 </a>
 
 
-Zhuoran Yin
 Graduate student at Carnegie Mellon University.
 
 
